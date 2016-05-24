@@ -1,0 +1,1 @@
+def lazyMap[T, U](coll: Iterable[T]) 

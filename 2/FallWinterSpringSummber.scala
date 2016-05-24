@@ -1,0 +1,3 @@
+import ChecksumAccumlator.calculate
+
+object FallWinterSprintSummer
